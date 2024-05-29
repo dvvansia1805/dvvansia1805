@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruvrajsinh Vansia</h1>
 <h3 align="center">Instrumentation and Control (I.C.) Engineer | President at PRAKALPA LDCE | Honours Degree - Robotics | AI/ML Enthusiast |</h3>
-<img align="right" alt="Coding" width="400" src="[https://ldce-my.sharepoint.com/:i:/g/personal/21icdhr025_ldce_ac_in/EYcrDWKuf7lEjlLvIEOV4xEBWzhGCQf59gHY2cenxF36wg?e=YsyRHq](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.leadfeeder.com%2Fblog%2Fai-machine-learning-b2b-2020%2F&psig=AOvVaw1LuRDhLxdbSdflSHAeOLHR&ust=1717068228958000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjVh-PfsoYDFQAAAAAdAAAAABAK)">
+<img align="right" alt="Coding" width="400" src="https://images.ctfassets.net/plii0v5gbc4s/2Z8bmd2uAUpvzZmdEzeeOj/8652c8b7d5c782d8e0311520ea1a65a0/machine-learning-ai-b2b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvvansia1805&label=Profile%20views&color=0e75b6&style=flat" alt="dvvansia1805" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhruvraj_1805" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvraj_1805?logo=twitter&style=for-the-badge" alt="dhruvraj_1805" /></a> </p>
